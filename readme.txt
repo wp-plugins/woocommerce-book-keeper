@@ -28,7 +28,7 @@ Our export format is quite standard and can easily be adapted form one accountin
 =3 Premium versions available if you need more=
 
 If you need more functionnalities (like detailed account codes or cost centers, exceptionnal charges and credits with alerts when income and outcome don\'t match...),
-you should have a look to our premium versions on our website : http://www.woocommerce-book-keeper.com)
+you should have a look to our premium versions on our website : http://www.woocommerce-book-keeper.com )
 
 =Multilingual=
 
