@@ -18,9 +18,9 @@ You also can add a generic cost center for products and shipping.
 
 =Formatted export to make your work simple=
 
-Most of business owners don\'t have much time to work hours for accounting. And their businesses lack their presence when they have.
+Most of business owners don't have much time to work hours for accounting. And their businesses lack their presence when they have.
 Having an accounter can be very expensive, and most of the paid time is only for typing from invoices to accounting software...
-Stop waisting your time and money, let\'s try to make it simple with your Woocommerce shop.
+Stop waisting your time and money, let's try to make it simple with your Woocommerce shop.
 A lot of accounting software don't work in the cloud and you can't use webservices or API with most of them. 
 We think it's safer as accounting data is sensitive and implied jobs.
 Our export format is quite standard and can easily be adapted form one accounting software to another with some minor changes using excel or Open Office.
@@ -28,7 +28,7 @@ Our export format is quite standard and can easily be adapted form one accountin
 =3 Premium versions available if you need more=
 
 If you need more functionnalities (like detailed account codes or cost centers, exceptionnal charges and credits with alerts when income and outcome don\'t match...),
-you should have a look to our premium versions on our website)
+you should have a look to our premium versions on our website : http://www.woocommerce-book-keeper.com)
 
 =Multilingual=
 
@@ -80,4 +80,4 @@ With the premium versions you can have more precise accounting analysis, and som
 == Changelog ==
 =1.00=
 
-First stable version.
+*First stable version.
