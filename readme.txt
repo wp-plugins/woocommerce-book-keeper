@@ -21,8 +21,10 @@ You also can add a generic cost center for products and shipping.
 Most of business owners don't have much time to work hours for accounting. And their businesses lack their presence when they have.
 Having an accounter can be very expensive, and most of the paid time is only for typing from invoices to accounting software...
 Stop waisting your time and money, let's try to make it simple with your Woocommerce shop.
+
 A lot of accounting software don't work in the cloud and you can't use webservices or API with most of them. 
-We think it's safer as accounting data is sensitive and implied jobs.
+We think it's safer as accounting data is sensitive and implies jobs.
+
 Our export format is quite standard and can easily be adapted form one accounting software to another with some minor changes using excel or Open Office.
 
 =3 Premium versions available if you need more=
