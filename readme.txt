@@ -8,7 +8,7 @@ Stable tag: 1.00
 License: GPLv3 License
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-A simple and formatted accounting export from Woocommerce to accounting softwares.
+A simple and CSV formatted accounting export from Woocommerce to accounting softwares.
 
 == Description ==
 =Generic Accounting codes and Cost centers=
