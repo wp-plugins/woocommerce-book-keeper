@@ -8,13 +8,12 @@ Stable tag: 1.00
 License: GPLv3 License
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-A simple and CSV formatted accounting export from Woocommerce to accounting softwares.
+A simple to use CSV formatted accounting export from Woocommerce to accounting softwares.
 
 == Description ==
 =Generic Accounting codes and Cost centers=
 
 You can add generic account code for customers, products, shipping and tax.
-You also can add a generic cost center for products and shipping.
 
 =Formatted export to make your work simple=
 
@@ -45,6 +44,14 @@ This plugin need Woocommerce to be installed and activated on your Wordpress ins
 4. Export from a date to another.
 
 == Frequently Asked Questions ==
+
+=Is the export OK with my software ?=
+
+WBK export format is quite universal, and most of softwares we know are compatible with the exported file. But you might need to change column headers or to do some minor changes.
+Most of accounting softwares need you to chose an import format too, so you can configure it to exactrly match with the file if you want.
+
+If you encounter problems, we are openminded and we'de like to make our export more and more accurate so you can send us a CSV file from your software and we'll try to upgrade our plugin.
+
 =Some orders are not balanced, why?=
 
 Until Woocommerce 2.3, coupons were possibly added after taxes, which is not allowed in accounting (and by the law...) so you might have not matching amounts on these particular sales.
