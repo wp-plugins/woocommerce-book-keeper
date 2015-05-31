@@ -39,7 +39,7 @@ Our export format is quite standard and can easily be adapted form one accountin
 
 = 3 Premium versions available if you need more =
 
-If you need more functionnalities, you should have a look to our premium versions on our [website]. (http://www.woocommerce-book-keeper.com "Woocommerce Book Keeper Website")
+If you need more functionnalities, you should have a look to our premium versions on our [website](http://www.woocommerce-book-keeper.com "Woocommerce Book Keeper Website")
 
 = Premium versions features =
 
@@ -65,7 +65,7 @@ If you need more functionnalities, you should have a look to our premium version
 * Configurable cost center per shipping class.
 
 = Compatibility =
-* Compatible with [Woocommerce PDF Invoices and Packing Slips] (https://wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/ "Woocommerce PDF invoices & packing slips")
+* Compatible with [Woocommerce PDF Invoices and Packing Slips](https://wordpress.org/plugins/woocommerce-pdf-invoices-packing-slips/ "Woocommerce PDF invoices & packing slips")
 
 = Convenience =
 
