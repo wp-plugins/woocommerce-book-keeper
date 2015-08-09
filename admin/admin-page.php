@@ -12,6 +12,7 @@
 <h3><?php _e( 'Settings' , 'mw-wae-i18n' ); ?></h3>
 <p> <?php _e( 'Please enter the following data:' , 'mw-wae-i18n' ); ?></p>
 <p><i><?php _e( 'This version of the plugin only allows to use generic accounts.' , 'mw-wae-i18n' ); ?></i></p>
+<p><?php _e( 'More features ? ' , 'mw-wae-i18n'); ?><a href="http://woocommerce-book-keeper.com/shop/woocommerce-book-keeper-expert/" target="_blank"><?php _e( 'Check our Expert version !' , 'mw-wae-i18n'); ?></a></p>
 <form method="post" action="options.php">
 
 <!-- Ajoute 2 champs cachés pour savoir comment rediriger l'utilisateur -->

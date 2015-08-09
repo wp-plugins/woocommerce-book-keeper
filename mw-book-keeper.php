@@ -1,12 +1,12 @@
 <?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 /*
 Plugin Name: Meow Woocommerce Book Keeper
-Plugin URI: http://www.meow-com.com
+Plugin URI: http://www.woocommerce-book-keeper.com
 Text Domain: mw-mwae-exporter
-Description: The basic CSV Exporter from Woocommerce Orders to accounting softwares. Does exist in other versions with more options.
+Description: The basic CSV Exporter from Woocommerce Orders to accounting softwares. Does exist in Expert version with more options.
 Author: Ro_meow
 Author URI: http://www.b-sider.fr
-Version: 1.00
+Version: 1.0.1
 */
 
 /*  Copyright 2014  Roman CASSANAS  (email : contact@meow-com.com )
@@ -33,9 +33,9 @@ if ( in_array( 'woocommerce/woocommerce.php', apply_filters( 'active_plugins', g
 	
 //Create the admin pages links
 function mw_wae_exporter_page() {
-add_menu_page ('Book Keeper', 'Book Keeper', 'manage_options', 'mw-wae-exporter', 'mw_wae_exporter_admin','dashicons-book-alt',59.6);
-add_submenu_page ('mw-wae-exporter', __( 'Export' , 'mw-wae-i18n' ), __( 'Export' , 'mw-wae-i18n' ), 'manage_options','mw_wae_exporter_export','mw_wae_exporter_export');
-add_submenu_page ('mw-wae-exporter', __( 'General Settings' , 'mw-wae-i18n' ), __( 'General Settings' , 'mw-wae-i18n' ), 'manage_options', 'mw_wae_exporter_param', 'mw_wae_exporter_param');
+
+add_submenu_page ('woocommerce', __( 'Export Book Keeping' , 'mw-wae-i18n' ), __( 'Export Book Keeping' , 'mw-wae-i18n' ), 'manage_options','mw_wae_exporter_export','mw_wae_exporter_export');
+add_submenu_page ('options-general.php', __( 'Book Keeping Settings' , 'mw-wae-i18n' ), __( 'Book Keeping Settings' , 'mw-wae-i18n' ), 'manage_options', 'mw_wae_exporter_param', 'mw_wae_exporter_param');
 //translation
 load_plugin_textdomain( 'mw-wae-i18n', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Meow Woocommerce Book Keeper v1.00\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2015-05-28 16:35:05+0000\n"
+"PO-Revision-Date: 2015-08-09 11:32:47+0000\n"
 "Last-Translator: Ro_meow <ro_meow@b-sider.fr>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -25,18 +25,18 @@ msgstr ""
 msgid "Settings"
 msgstr "Paramètres"
 
-#: admin/admin-page.php:22
+#: admin/admin-page.php:23
 #@ mw-wae-i18n
 msgid "Products"
 msgstr "Produits"
 
-#: admin/admin-page.php:35
+#: admin/admin-page.php:36
 #@ mw-wae-i18n
 msgid "Customers"
 msgstr "Clients"
 
-#: admin/admin-page.php:89
-#: admin/welcome-page.php:10
+#: admin/admin-page.php:90
+#: admin/welcome-page.php:11
 #@ mw-wae-i18n
 msgid "Save"
 msgstr "Sauvegarder"
@@ -46,32 +46,32 @@ msgstr "Sauvegarder"
 msgid "Export settings"
 msgstr "Paramètres d'export"
 
-#: admin/export-page.php:29
+#: admin/export-page.php:30
 #@ mw-wae-i18n
 msgid "Start"
 msgstr "Début"
 
-#: admin/export-page.php:32
+#: admin/export-page.php:33
 #@ mw-wae-i18n
 msgid "End"
 msgstr "Fin"
 
-#: admin/export-page.php:36
+#: admin/export-page.php:37
 #@ mw-wae-i18n
 msgid "Separator"
 msgstr "Séparateur"
 
-#: admin/export-page.php:41
+#: admin/export-page.php:42
 #@ mw-wae-i18n
 msgid "Comma"
 msgstr "Virgule"
 
-#: admin/export-page.php:42
+#: admin/export-page.php:43
 #@ mw-wae-i18n
 msgid "Semi-Colon"
 msgstr "Point-virgule"
 
-#: admin/export-page.php:43
+#: admin/export-page.php:44
 #@ mw-wae-i18n
 msgid "Tab"
 msgstr "Tabulation"
@@ -88,7 +88,7 @@ msgstr "Export"
 msgid "Droits insuffisants !!!"
 msgstr ""
 
-#: admin/welcome-page.php:11
+#: admin/welcome-page.php:12
 #@ mw-wae-i18n
 msgid "Export your file with your export settings."
 msgstr "Exportez votre fichier avec vos paramètres d'export."
@@ -110,52 +110,52 @@ msgstr ""
 msgid "Please enter the following data:"
 msgstr "Merci de remplir les données suivantes : "
 
-#: admin/admin-page.php:27
+#: admin/admin-page.php:28
 #@ mw-wae-i18n
 msgid "Account code - Product"
 msgstr "Compte comptable - produit"
 
-#: admin/admin-page.php:40
+#: admin/admin-page.php:41
 #@ mw-wae-i18n
 msgid "Account code - Customer"
 msgstr "Compte comptable - client"
 
-#: admin/admin-page.php:49
+#: admin/admin-page.php:50
 #@ mw-wae-i18n
 msgid "Taxes and delivery options"
 msgstr "Paramètres de taxes et modes d'expédition"
 
-#: admin/admin-page.php:53
+#: admin/admin-page.php:54
 #@ mw-wae-i18n
 msgid "Account code - Tax"
 msgstr "Compte comptable - Taxe"
 
-#: admin/admin-page.php:58
+#: admin/admin-page.php:59
 #@ mw-wae-i18n
 msgid "Account code - Delivery options"
 msgstr "Compte comptable - méthode d'expédition"
 
-#: admin/admin-page.php:66
+#: admin/admin-page.php:67
 #@ mw-wae-i18n
 msgid "Journal reference number"
 msgstr "Code journal"
 
-#: admin/admin-page.php:70
+#: admin/admin-page.php:71
 #@ mw-wae-i18n
 msgid "Sales journal reference number"
 msgstr "Code journal des ventes"
 
-#: admin/export-page.php:6
+#: admin/export-page.php:7
 #@ mw-wae-i18n
 msgid "Configure your export and export completed orders."
 msgstr "Paramétrez votre export et exportez les commandes terminées."
 
-#: admin/export-page.php:26
+#: admin/export-page.php:27
 #@ mw-wae-i18n
 msgid "Period to be exported"
 msgstr "Période à exporter"
 
-#: admin/export-page.php:46
+#: admin/export-page.php:47
 #@ mw-wae-i18n
 msgid "Export!"
 msgstr "Exporter !"
@@ -165,32 +165,32 @@ msgstr "Exporter !"
 msgid "Welcome!"
 msgstr "Bienvenue ! "
 
-#: admin/welcome-page.php:8
+#: admin/welcome-page.php:9
 #@ mw-wae-i18n
 msgid "How to use this plugin?"
 msgstr "Comment utiliser ce plugin ?"
 
-#: admin/welcome-page.php:9
+#: admin/welcome-page.php:10
 #@ mw-wae-i18n
 msgid "Fill out the settings fields."
 msgstr "Remplissez les champs de paramètres."
 
-#: admin/welcome-page.php:12
+#: admin/welcome-page.php:13
 #@ mw-wae-i18n
 msgid "In your accounting software, ensure that the upload settings exactly match your online store export data."
 msgstr "Dans votre logiciel de comptabilité, assurez vous du bon paramétrage du profil d'import pour coller exactement au fichier exporté depuis votre boutique."
 
-#: admin/welcome-page.php:13
+#: admin/welcome-page.php:14
 #@ mw-wae-i18n
 msgid "Always test with only one order."
 msgstr "Faites toujours un test avec une seule commande."
 
-#: admin/welcome-page.php:14
+#: admin/welcome-page.php:15
 #@ mw-wae-i18n
 msgid "Upload and start saving time and money on your book keeping!"
 msgstr "Importez et commencez à gagner du temps et de l'argent sur votre saisie comptable !"
 
-#: admin/welcome-page.php:16
+#: admin/welcome-page.php:17
 #@ mw-wae-i18n
 msgid "Enjoy!"
 msgstr "Profitez de la vie !"
@@ -209,4 +209,22 @@ msgstr "Merci d'avoir téléchargé Meow Woocommerce Book Keeper"
 #@ mw-wae-i18n
 msgid "This plugin helps you export your completed Woocommerce orders in a CSV format for an easy upload into your accounting software."
 msgstr "Ce plugin vous permet d'exporter vos ventes Woocommerce dans un format CSV adapté à un import facile dans les logiciels comptables."
+
+#: admin/admin-page.php:15
+#: admin/export-page.php:6
+#@ mw-wae-i18n
+msgid "More features ? "
+msgstr "Besoin de plus de fonctionnalités ? "
+
+#: admin/admin-page.php:15
+#: admin/export-page.php:6
+#: admin/welcome-page.php:7
+#@ mw-wae-i18n
+msgid "Check our Expert version !"
+msgstr "Découvrez notre version Expert !"
+
+#: admin/welcome-page.php:7
+#@ mw-wae-i18n
+msgid "Need more features ? "
+msgstr "Besoin de plus de fonctionnalités ? "
 
